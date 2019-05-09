@@ -1,6 +1,6 @@
 # Usage
 ```jsx
-
+<Loader color="#aaa" thickness="3" />
 ```
 
 # Properties
