@@ -4,7 +4,10 @@ import "./styles.scss";
 const FlexBox = ({ children, ...props }) => {
     let className = "flexbox";
     for (var key in props) {
-        className += props[key] === true ? " " + key : ` ${key}-${props[key]}`;
+        var value = props[key];
+        var dashedKey = key.replace(/[A-Z]/g, m => "-" + m.toLowerCase());
+
+        className += value === true ? " " + dashedKey : ` ${key}-${value}`;
     }
 
     return ( 
