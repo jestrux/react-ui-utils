@@ -6,6 +6,6 @@
 </FlexBox>
 ```
 
-#Properties
+# Properties
 
 | center | Aligns and justifies center |

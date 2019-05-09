@@ -3,9 +3,7 @@
 
 ```
 
-#Properties
-
-#Properties
+# Properties
 
 | size | Width and height of loader |
 | thickness | Thickness of loader circle border |
