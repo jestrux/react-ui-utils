@@ -1,0 +1,8 @@
+{
+  "name": "react-ui-utils",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jestrux/react-ui-utils.git",
+  "author": "Walter Kimaro <wakyj07@gmail.com>",
+  "license": "MIT"
+}
