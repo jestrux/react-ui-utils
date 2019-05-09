@@ -4,5 +4,9 @@
   "main": "index.js",
   "repository": "https://github.com/jestrux/react-ui-utils.git",
   "author": "Walter Kimaro <wakyj07@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
 }
