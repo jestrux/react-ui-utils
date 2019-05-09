@@ -1,0 +1,34 @@
+.positioned.relative{
+    position: relative;
+}
+.positioned.absolute{
+    position: absolute;
+}
+.positioned.fixed{
+    position: fixed;
+}
+.positioned.static{
+    position: static;
+}
+.positioned.pin-all,
+.positioned.pin-y,
+.positioned.pin-top{
+    top: 0;
+}
+.positioned.pin-all,
+.positioned.pin-y,
+.positioned.pin-bottom{
+    bottom: 0;
+}
+
+.positioned.pin-all,
+.positioned.pin-x,
+.positioned.pin-left{
+    left: 0;
+}
+
+.positioned.pin-all,
+.positioned.pin-x,
+.positioned.pin-right{
+    right: 0;
+}
