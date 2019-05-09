@@ -5,6 +5,8 @@
 
 # Properties
 
-| size | Width and height of loader |
-| thickness | Thickness of loader circle border |
-| color | Color of loader circle |
+| Property  | Default | Description                       |
+| ----------| ------- | ----------------------------------|
+| size      | 60      | Width and height of loader        |
+| thickness | 5       | Thickness of loader circle border |
+| color     | #888    | Color of loader circle            |

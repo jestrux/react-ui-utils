@@ -4,6 +4,9 @@
 ```
 
 # Properties
-| height | height of spacer |
-| width | width of spacer |
-| flex | fill all available space in flex |
+
+| Property  | Description                              |
+| ----------| -----------------------------------------|
+| height    | Box height                               |
+| width     | Box width                                |
+| flex      | Ffill all available space in flex parent |
